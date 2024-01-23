@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacturaWs", "FacturaWs\FacturaWs.csproj", "{880BEF95-F77E-4146-BB32-E2B359BE8DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880BEF95-F77E-4146-BB32-E2B359BE8DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880BEF95-F77E-4146-BB32-E2B359BE8DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880BEF95-F77E-4146-BB32-E2B359BE8DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880BEF95-F77E-4146-BB32-E2B359BE8DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91464DEC-0368-4E1B-BDF5-D78AB2944589}
+	EndGlobalSection
+EndGlobal
